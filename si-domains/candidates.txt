@@ -1,0 +1,100 @@
+# .si candidate list — check with: python3 check_si.py candidates.txt --out results.csv
+# Tiers are ranked by where I think the remaining edge is, best first.
+# NONE of these are verified available — the research session had no WHOIS egress.
+
+## TIER 1 — Trump-rebrand vocabulary (new information as of 2026-09-19; nobody
+## was bidding on these yesterday). Two of his three options abbreviate to SI.
+superior
+supreme
+superiorintelligence
+supremeintelligence
+superiorai
+supremeai
+elegant
+ineloquent
+therevolution
+namethe
+
+## TIER 2 — "synthetic intelligence" (your own thesis; least crowded because the
+## May–June rush chased "super", not "synthetic")
+synthetic
+synth
+syntheticintelligence
+synthmind
+synthetica
+synthesist
+resynthesis
+synthetics
+
+## TIER 3 — domain hacks where .si completes the word. Most underexploited
+## vector: the rush bought "product.si" generics, not whole-string hacks.
+## Short stems are near-certainly gone; the long ones are the realistic buys.
+synthe          # synthesis
+autopoie        # autopoiesis — self-producing systems, very SI-coded
+homeosta        # homeostasis
+photosynthe     # photosynthesis
+biosynthe       # biosynthesis
+morphogene      # morphogenesis
+epigene         # epigenesis
+pathogene       # pathogenesis
+abiogene        # abiogenesis
+metamorpho      # metamorphosis
+apotheo         # apotheosis
+psychoanaly     # psychoanalysis
+electroly       # electrolysis
+symbio          # symbiosis
+hypothe         # hypothesis
+anamne          # anamnesis
+exege           # exegesis
+prognosi        # (see progno)
+progno          # prognosis
+diagno          # diagnosis
+cataly          # catalysis
+analy           # analysis
+kine            # kinesis
+gene            # genesis
+the             # thesis
+ba              # basis
+cri             # crisis
+oa              # oasis
+empha           # emphasis
+noe             # noesis — knowing/intellect. on-thesis if free
+
+## TIER 4 — AI-category generics. Top of this tier is already spoken for
+## (recursive.si $20k, bot.si $20k). Check the leftovers; do not overpay.
+latent
+evals
+guardrails
+orchestrator
+alignment
+superalignment
+scaffold
+tokenizer
+distill
+distillation
+pretrain
+posttrain
+syntheticdata
+inference
+reasoning
+embeddings
+substrate
+corrigible
+intelligence
+emergence
+
+## TIER 5 — initialisms. Almost certainly registered; listed so the checker
+## confirms rather than you wondering.
+asi
+agi
+si
+xsi
+esi
+
+## DO NOT BUY — existing-company marks. .si has an ARDS dispute procedure and
+## these lose it. Listed as a fence, not a shopping list.
+# ssi   (Safe Superintelligence Inc.)
+# openai
+# anthropic
+# claude
+# deepmind
