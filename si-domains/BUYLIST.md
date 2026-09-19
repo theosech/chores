@@ -1,5 +1,14 @@
 # .si — names confirmed absent from the zone, 2026-09-19
 
+> **CORRECTION (verified against registrar data):** the counts below are an UPPER
+> BOUND, not an availability list. .si delegates a domain only after two working
+> nameservers pass the registry's predelegation check, so a registered name held
+> without DNS -- the normal state for a name an investor is flipping -- is invisible
+> to a DNS probe. `distill.si`, `lucid.si` and `hi.si` all read as absent here and are
+> in fact registered (`distill.si` is listed on Afternic). Treat every name below as
+> UNCONFIRMED and re-check with `check_si.py`, which uses RDAP/WHOIS and sees
+> registrations regardless of DNS.
+
 Method: 1,234 candidate labels queried for NS/SOA/A across six independent public
 resolvers (Google, Cloudflare, Quad9, OpenDNS, Verisign) and, for the top picks,
 against `ns2.arnes.si` — the .si authoritative server — directly. A name absent
